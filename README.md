@@ -1,7 +1,7 @@
 # DIGITAL-RESISTANCE-2.0
 ЦИФРОВОЕ СОПРОТИВЛЕНИЕ 2.0
 
-<img width="1376" height="768" alt="ЦИФРОВОЕ СОПРОТИВЛЕНИЕ 2 0" src="https://github.com/user-attachments/assets/a2f0b374-f183-4974-b353-f1db6a44ca39" />
+![ЦИФРОВОЕ СОПРОТИВЛЕНИЕ 2 0](https://github.com/user-attachments/assets/abdd7e1e-51d0-43cd-83d7-de0258d9bc4f)
 
 Конторы пидорасов решили, что могут безнаказанно блочить нам доступ? Хуй им на воротник! Хватит терпеть это блядство и кормить тех, кто вытирает о нас ноги.
 
